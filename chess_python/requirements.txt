@@ -1,0 +1,12 @@
+# ChessAI Pro - Pinned Python Requirements
+# Follows security audit standard guidelines to avoid dependencies vulnerabilities.
+
+pygame==2.5.2
+python-chess==1.10.0
+numpy==1.26.4
+python-dotenv==1.0.1
+sqlite3-binary==3.38.2; sys_platform=='win32'
+
+# Security auditing
+pip-audit==2.7.2
+pytest==8.1.1

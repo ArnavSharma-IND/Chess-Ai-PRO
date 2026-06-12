@@ -1,0 +1,6 @@
+{
+  "name": "ChessAI Pro",
+  "description": "An interactive, feature-rich offline chess application featuring Minimax AI with Alpha-Beta pruning, custom themes, robust statistics, and game saves.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
